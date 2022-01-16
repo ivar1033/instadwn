@@ -5,7 +5,7 @@ import time
 import wget
 import requests
 
-# SESSIONID = "2223792612%3A0FcbQOoG8rgg88%3A8"
+# SESSIONID = ""
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/79.0.3945.74 Safari/537.36 Edg/79.0.309.43",
